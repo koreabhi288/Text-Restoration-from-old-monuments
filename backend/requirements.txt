@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+Pillow
+google-generativeai
+langchain
+langchain-community
+wikipedia-api
+arxiv
+python-dotenv
+gunicorn
